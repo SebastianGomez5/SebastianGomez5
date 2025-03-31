@@ -2,6 +2,9 @@
 
 <h1 align="center">Hello world! 👋 I'm Sebastián Gómez</h1>
 
+
+<img src="BanerSebasPublicita.jpg" alt="Banner de Sebastián Gómez" style="width:100%;" />
+
 ###
 
 <p align="left">🎓 Systems Engineering Student @Univalle<br>💻 Web Developer at Álvaro Publicita<br>🔧 Lover of clean code, functional design, and good stories<br>🎯 My philosophy: "Every line of code is an opportunity to create impact"</p>
