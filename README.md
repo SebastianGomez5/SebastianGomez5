@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">🤝 Shall we collaborate?</h2>
+<h2 align="center">🤝 Shall we collaborate?</h2>
 
 ###
 
