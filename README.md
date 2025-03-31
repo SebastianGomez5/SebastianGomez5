@@ -10,7 +10,8 @@
 <p align="left">
   🎓 <strong>Systems Engineering Student</strong> @<a href="https://www.univalle.edu.co/" target="_blank">Univalle</a><br>
   💻 <strong>Web Developer</strong> at <a href="https://alvaropublicita.com" target="_blank">Álvaro Publicita</a><br>
-  🔧 Lover of clean code, functional design, and good stories<br>
+  🔧 <strong>Computer and printer repair technician </strong> at <a href="https://www.instagram.com/systemkolortulua/" target="_blank">System Kolor</a><br>
+  🧠 Lover of clean code, functional design, and good stories<br>
   🎯 My philosophy: "Every line of code is an opportunity to create impact"
 </p>
 
