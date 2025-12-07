@@ -3,7 +3,7 @@
 <h1 align="center">Hello world! 👋 I'm Sebastián Gómez</h1>
 
 
-<img src="BanerSebasPublicita.jpg" alt="Banner de Sebastián Gómez" style="width:100%;" />
+<img src="SebasBanner.png" alt="Banner de Sebastián Gómez" style="width:100%;" />
 
 ###
 
